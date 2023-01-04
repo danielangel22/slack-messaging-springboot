@@ -1,2 +1,4 @@
 # slack-messaging-springboot
-Envia mensajes en tiempo real a slack con spring boot y slack api
+
+## Tutorial escrito
+https://medium.com/@danielangel22/integrando-slack-y-spring-boot-cómo-enviar-mensajes-desde-aplicaciones-java-c5730a6a222f
